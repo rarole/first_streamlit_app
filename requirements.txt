@@ -1,5 +1,5 @@
 #requirements.txt
-snowflake-connector-python
+snowflake-connector-python==2.8.3
 
 cffi==1.15.0
 
